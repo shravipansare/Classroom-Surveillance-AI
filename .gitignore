@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# TensorFlow / Keras model files
+*.h5
+*.hdf5
+*.pb
+*.tflite
+
+# Build / cache
+*.log
+*.pickle
+
+# Excel files (optional)
+*.xlsx
+*.xls
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
